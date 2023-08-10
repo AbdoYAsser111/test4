@@ -1,0 +1,141 @@
+
+header{
+
+    background-color: rgba(227, 58, 202, 0);
+    margin: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+
+
+
+}
+.h-mobile {
+
+
+    display: block;
+
+}
+.h-computer {
+
+
+    display: none;
+
+
+}
+.humborgr {
+
+    position: absolute;
+    top: 33px;
+    right: 48px;
+    color: #9595b7;
+
+
+}
+input {
+
+    display: none;
+}
+
+#drop:checked + .u-hum{
+
+    display: block;
+
+
+
+}
+
+
+
+.fa-bars {
+
+    font-size: 50px;
+
+
+}
+.logo {
+
+    margin-top: -3px;
+
+
+
+}
+.u-hum {
+
+    display: none;
+    text-align: center;
+
+
+
+
+}
+.drop-elment {
+
+    position: absolute;
+    top: 81px;
+    right: 26px;
+    background-color:#9595b7;
+    padding: 5px;
+    border-radius: 10px;
+    width: auto;
+    
+
+
+
+
+}
+.drop-elments {
+
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+
+
+}
+.drop-elments-1 {
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.A {
+
+    font-size: 70px;
+
+
+}
+.B {
+
+
+    font-size: 200px;
+
+}
+.C {
+
+    font-size: 80px;
+    margin-top: 482px;
+
+
+
+}
